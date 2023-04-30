@@ -1,5 +1,4 @@
-# helloworld
-**Ola mundo em diferentes linguagens.**
+# HelloWorld
 ---
 ## Linguagens utilizadas!
 ---
